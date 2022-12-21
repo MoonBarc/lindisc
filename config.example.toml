@@ -1,0 +1,3 @@
+# TODO: Replace with your actual webhook url ↓
+webhook_url = "https://discord.com/api/webhooks/0000000000000000000/token-aiuftcs67ayuN#iag8osfpwahGIG#Ijahbsfu"
+bind = "localhost:5252"
